@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manishgiri8101@gmail.com**
 
-- 📄 Know about my experiences [Python,Java,DSA](Python,Java,DSA)
+- 📄 Know about my experiences [Python,Java,HTML,JS & DSA](Python,Java,HTML,JS & DSA)
 
 - ⚡ Fun fact **I think I am Funny**
 
