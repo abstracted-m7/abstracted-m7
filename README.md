@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abstracted-m7&label=Profile%20views&color=0e75b6&style=flat" alt="abstracted-m7" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently learning **DSA-DAA**
 
 - 👨‍💻 All of my projects are available at [https://abstracted-m7.github.io/portfolio/](https://abstracted-m7.github.io/portfolio/)
 
