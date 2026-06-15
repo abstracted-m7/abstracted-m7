@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA-DAA**
 
-- 👨‍💻 All of my projects are available at [https://abstracted-m7.github.io/portfolio-website/](https://abstracted-m7.github.io/portfolio-website/)
+- 👨‍💻 All of my projects are available at [portfolio-website](https://abstracted-m7.github.io/portfolio-website/)
 
 - 📫 How to reach me **manishgiri8101@gmail.com**
 
