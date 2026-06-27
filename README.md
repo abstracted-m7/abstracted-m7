@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abstracted-m7&label=Profile%20views&color=0e75b6&style=flat" alt="abstracted-m7" /> </p>
 
-- 🌱 I’m currently learning **DSA-DAA**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [portfolio-website](https://abstracted-m7.github.io/portfolio-website/)
 
 - 📫 How to reach me **manishgiri8101@gmail.com**
 
-- 📄 Know about my experiences [Python, Java, OOPs & DSA]
+- 📄 Know about my experiences [Python, Java, OOPs, DSA, ML]
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
