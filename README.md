@@ -35,6 +35,3 @@
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="faiss"/>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abstracted-m7&show_icons=true&locale=en&layout=compact" alt="abstracted-m7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abstracted-m7&show_icons=true&locale=en" alt="abstracted-m7" /></p>
