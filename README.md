@@ -8,7 +8,7 @@
 - 🔭 I work with **Transformers, Supervised & Unsupervised ML, ChromaDB, FAISS**
 - 👨‍💻 All of my projects are available at my [portfolio website](https://abstracted-m7.github.io/portfolio-website/)
 - 📫 How to reach me: **manishgiri8101@gmail.com**
-- 📄 My core skills: **Python, AI/ML, Embeddings, Vector Databases (ChromaDB, FAISS), Transformers, Supervised & Unsupervised Learning**
+- 📄 My core skills: **Python, AI/ML, Embeddings, Vector Databases (ChromaDB, FAISS), Transformers, Supervised & Unsupervised Learning, n8n**
 - ⚡ Fun fact: **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
@@ -33,5 +33,9 @@
 <img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black" alt="transformers"/>
 <img src="https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge&logoColor=white" alt="chromadb"/>
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white" alt="faiss"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abstracted-m7&show_icons=true&locale=en&layout=compact" alt="abstracted-m7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abstracted-m7&show_icons=true&locale=en" alt="abstracted-m7" /></p>
