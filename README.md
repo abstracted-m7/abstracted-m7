@@ -36,6 +36,3 @@
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abstracted-m7&show_icons=true&locale=en&layout=compact" alt="abstracted-m7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abstracted-m7&show_icons=true&locale=en" alt="abstracted-m7" /></p>
